@@ -1,0 +1,338 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="364" filedate="2009-07-22 17:13:49" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 21:03:56" width="16px" height="11px">
+</image>
+<image path="images/cover.jpg" filesize="113058" filedate="2010-05-09 19:34:43" width="521px" height="739px">
+</image>
+<image path="images/external.png" filesize="172" filedate="2009-07-22 15:17:10" width="12px" height="12px">
+</image>
+<image path="images/fig01.jpg" filesize="10264" filedate="2003-10-11 09:01:58" width="198px" height="222px">
+</image>
+<image path="images/fig02.jpg" filesize="14854" filedate="2003-10-11 09:01:59" width="232px" height="206px">
+</image>
+<image path="images/fig03.jpg" filesize="16984" filedate="2003-10-11 09:01:59" width="209px" height="191px">
+</image>
+<image path="images/fig04.jpg" filesize="10990" filedate="2003-10-11 09:02:00" width="226px" height="336px">
+</image>
+<image path="images/fig05.jpg" filesize="6532" filedate="2003-10-11 09:02:00" width="181px" height="192px">
+</image>
+<image path="images/fig06.jpg" filesize="19891" filedate="2003-10-11 09:02:00" width="308px" height="344px">
+</image>
+<image path="images/fig07.jpg" filesize="39494" filedate="2003-10-11 09:02:01" width="211px" height="365px">
+</image>
+<image path="images/fig08.jpg" filesize="10552" filedate="2003-10-11 09:02:01" width="397px" height="111px">
+</image>
+<image path="images/fig09.jpg" filesize="9727" filedate="2003-10-11 09:02:02" width="359px" height="132px">
+</image>
+<image path="images/pl000.jpg" filesize="62691" filedate="2005-03-17 21:02:42" width="602px" height="386px">
+</image>
+<image path="images/pl001.jpg" filesize="47732" filedate="2003-10-11 09:02:03" width="666px" height="432px">
+</image>
+<image path="images/pl002.jpg" filesize="57774" filedate="2003-10-11 09:02:04" width="550px" height="666px">
+</image>
+<image path="images/pl003.jpg" filesize="46465" filedate="2003-10-11 09:02:05" width="607px" height="437px">
+</image>
+<image path="images/pl004.jpg" filesize="69558" filedate="2005-03-17 21:02:45" width="569px" height="418px">
+</image>
+<image path="images/pl005.jpg" filesize="66366" filedate="2005-03-17 21:02:46" width="540px" height="423px">
+</image>
+<image path="images/pl006.jpg" filesize="50363" filedate="2005-03-17 21:02:47" width="535px" height="411px">
+</image>
+<image path="images/pl007.jpg" filesize="68967" filedate="2005-03-17 21:02:48" width="608px" height="411px">
+</image>
+<image path="images/pl008.jpg" filesize="75235" filedate="2005-03-17 21:02:49" width="627px" height="414px">
+</image>
+<image path="images/pl009.jpg" filesize="218159" filedate="2005-03-17 21:02:51" width="1392px" height="668px">
+</image>
+<image path="images/pl010.jpg" filesize="40549" filedate="2005-03-17 21:02:52" width="641px" height="416px">
+</image>
+<image path="images/pl011.jpg" filesize="49479" filedate="2005-03-17 21:02:52" width="640px" height="412px">
+</image>
+<image path="images/pl012.jpg" filesize="43456" filedate="2005-03-17 21:02:53" width="415px" height="608px">
+</image>
+<image path="images/pl013.jpg" filesize="60767" filedate="2005-03-17 21:02:54" width="725px" height="419px">
+</image>
+<image path="images/pl014.jpg" filesize="49010" filedate="2005-03-17 21:02:55" width="604px" height="398px">
+</image>
+<image path="images/pl015.jpg" filesize="41628" filedate="2005-03-17 21:06:13" width="626px" height="416px">
+</image>
+<image path="images/pl016.jpg" filesize="39244" filedate="2005-03-17 21:02:56" width="330px" height="564px">
+</image>
+<image path="images/pl017.jpg" filesize="45285" filedate="2005-03-17 21:02:57" width="568px" height="412px">
+</image>
+<image path="images/pl018.jpg" filesize="50355" filedate="2005-03-17 21:02:58" width="654px" height="417px">
+</image>
+<image path="images/pl019.jpg" filesize="49197" filedate="2005-03-17 21:02:59" width="570px" height="414px">
+</image>
+<image path="images/pl020.jpg" filesize="26905" filedate="2005-03-17 21:03:00" width="210px" height="515px">
+</image>
+<image path="images/pl021.jpg" filesize="33211" filedate="2005-03-17 21:03:00" width="253px" height="613px">
+</image>
+<image path="images/pl022.jpg" filesize="37889" filedate="2005-03-17 21:03:01" width="282px" height="425px">
+</image>
+<image path="images/pl023.jpg" filesize="45551" filedate="2005-03-17 21:03:02" width="415px" height="589px">
+</image>
+<image path="images/pl024.jpg" filesize="49912" filedate="2005-03-17 21:03:07" width="593px" height="413px">
+</image>
+<image path="images/pl025.jpg" filesize="24500" filedate="2005-03-17 21:03:08" width="555px" height="220px">
+</image>
+<image path="images/pl026.jpg" filesize="70119" filedate="2005-03-17 21:03:09" width="624px" height="411px">
+</image>
+<image path="images/pl027.jpg" filesize="72153" filedate="2005-03-17 21:03:10" width="636px" height="411px">
+</image>
+<image path="images/pl028.jpg" filesize="147436" filedate="2003-10-11 09:02:27" width="1042px" height="786px">
+</image>
+<image path="images/pl029.jpg" filesize="53973" filedate="2003-10-11 09:02:27" width="408px" height="507px">
+</image>
+<image path="images/pl030.jpg" filesize="75530" filedate="2005-03-17 21:03:14" width="534px" height="412px">
+</image>
+<image path="images/pl031.jpg" filesize="86767" filedate="2005-03-17 21:03:15" width="417px" height="643px">
+</image>
+<image path="images/pl032.jpg" filesize="74981" filedate="2005-03-17 21:03:17" width="635px" height="410px">
+</image>
+<image path="images/pl033.jpg" filesize="66654" filedate="2005-03-17 21:03:18" width="494px" height="412px">
+</image>
+<image path="images/pl034.jpg" filesize="74556" filedate="2005-03-17 21:03:19" width="583px" height="414px">
+</image>
+<image path="images/pl035.jpg" filesize="90130" filedate="2005-03-17 21:03:20" width="633px" height="412px">
+</image>
+<image path="images/pl036.jpg" filesize="82100" filedate="2005-03-17 21:03:21" width="589px" height="415px">
+</image>
+<image path="images/pl037.jpg" filesize="92287" filedate="2005-03-17 21:03:22" width="640px" height="416px">
+</image>
+<image path="images/pl038.jpg" filesize="70277" filedate="2005-03-17 21:03:23" width="630px" height="413px">
+</image>
+<image path="images/pl039.jpg" filesize="44754" filedate="2005-03-17 21:03:24" width="613px" height="413px">
+</image>
+<image path="images/pl040.jpg" filesize="64981" filedate="2005-03-17 21:03:25" width="375px" height="634px">
+</image>
+<image path="images/pl041.jpg" filesize="51530" filedate="2005-03-17 21:03:26" width="292px" height="558px">
+</image>
+<image path="images/pl042.jpg" filesize="54449" filedate="2005-03-17 21:03:27" width="578px" height="351px">
+</image>
+<image path="images/pl043.jpg" filesize="56225" filedate="2005-03-17 21:03:28" width="587px" height="409px">
+</image>
+<image path="images/pl044.jpg" filesize="17822" filedate="2005-03-17 21:03:28" width="210px" height="491px">
+</image>
+<image path="images/pl045.jpg" filesize="61221" filedate="2005-03-17 21:03:30" width="391px" height="535px">
+</image>
+<image path="images/pl046.jpg" filesize="54874" filedate="2005-03-17 21:03:30" width="290px" height="543px">
+</image>
+<image path="images/pl047.jpg" filesize="46188" filedate="2005-03-17 21:03:32" width="709px" height="422px">
+</image>
+<image path="images/pl048.jpg" filesize="43065" filedate="2005-03-17 21:03:32" width="469px" height="342px">
+</image>
+<image path="images/pl049.jpg" filesize="51393" filedate="2005-03-17 21:03:33" width="511px" height="343px">
+</image>
+<image path="images/pl050.jpg" filesize="73040" filedate="2005-03-17 21:03:34" width="575px" height="378px">
+</image>
+<image path="images/pl051.jpg" filesize="72384" filedate="2005-03-17 21:03:35" width="633px" height="399px">
+</image>
+<image path="images/pl052.jpg" filesize="66082" filedate="2005-03-17 21:03:36" width="416px" height="618px">
+</image>
+<image path="images/pl053.jpg" filesize="73328" filedate="2005-03-17 21:03:37" width="361px" height="633px">
+</image>
+<image path="images/pl054.jpg" filesize="86836" filedate="2005-03-17 21:03:38" width="613px" height="416px">
+</image>
+<image path="images/pl055.jpg" filesize="69838" filedate="2005-03-17 21:03:39" width="617px" height="414px">
+</image>
+<image path="images/pl056.jpg" filesize="80993" filedate="2005-03-17 21:03:40" width="626px" height="409px">
+</image>
+<image path="images/pl057.jpg" filesize="46348" filedate="2003-10-11 09:02:52" width="543px" height="403px">
+</image>
+<image path="images/pl058.jpg" filesize="50618" filedate="2005-03-17 21:03:41" width="620px" height="275px">
+</image>
+<image path="images/pl059.jpg" filesize="81809" filedate="2005-03-17 21:03:42" width="629px" height="400px">
+</image>
+<image path="images/pl060.jpg" filesize="44204" filedate="2005-03-17 21:03:43" width="358px" height="563px">
+</image>
+<image path="images/pl061.jpg" filesize="78335" filedate="2005-03-17 21:03:44" width="599px" height="409px">
+</image>
+<image path="images/pl062.jpg" filesize="90998" filedate="2005-03-17 21:03:45" width="616px" height="412px">
+</image>
+<image path="images/pl063.jpg" filesize="74596" filedate="2005-03-17 21:03:46" width="627px" height="407px">
+</image>
+<image path="images/pl064.jpg" filesize="78928" filedate="2005-03-17 21:03:47" width="617px" height="412px">
+</image>
+<image path="images/pl065.jpg" filesize="63950" filedate="2005-03-17 21:03:48" width="591px" height="412px">
+</image>
+<image path="images/pl066.jpg" filesize="80115" filedate="2005-03-17 21:03:49" width="618px" height="381px">
+</image>
+<image path="images/pl067.jpg" filesize="56230" filedate="2005-03-17 21:03:50" width="412px" height="519px">
+</image>
+<image path="images/pl068.jpg" filesize="35051" filedate="2005-03-17 21:03:51" width="600px" height="200px">
+</image>
+<image path="images/pl069.jpg" filesize="54819" filedate="2005-03-17 21:03:52" width="416px" height="406px">
+</image>
+<image path="images/pl070.jpg" filesize="28453" filedate="2005-03-17 21:03:53" width="206px" height="445px">
+</image>
+<image path="images/pl071.jpg" filesize="80721" filedate="2005-03-17 21:03:54" width="627px" height="416px">
+</image>
+<image path="images/pl072.jpg" filesize="65469" filedate="2005-03-17 21:03:55" width="611px" height="410px">
+</image>
+<image path="images/pl073.jpg" filesize="72164" filedate="2005-03-17 21:03:56" width="614px" height="415px">
+</image>
+<image path="images/pl074.jpg" filesize="79258" filedate="2005-03-17 21:03:57" width="611px" height="411px">
+</image>
+<image path="images/pl075.jpg" filesize="36237" filedate="2005-03-17 21:03:58" width="265px" height="635px">
+</image>
+<image path="images/pl076.jpg" filesize="74201" filedate="2005-03-17 21:03:58" width="693px" height="410px">
+</image>
+<image path="images/pl077.jpg" filesize="85156" filedate="2005-03-17 21:03:59" width="412px" height="730px">
+</image>
+<image path="images/pl078.jpg" filesize="39024" filedate="2005-03-17 21:04:00" width="609px" height="413px">
+</image>
+<image path="images/pl079.jpg" filesize="52250" filedate="2005-03-17 21:04:01" width="683px" height="386px">
+</image>
+<image path="images/pl080.jpg" filesize="41527" filedate="2005-03-17 21:04:02" width="408px" height="564px">
+</image>
+<image path="images/pl081.jpg" filesize="51174" filedate="2005-03-17 21:04:03" width="559px" height="415px">
+</image>
+<image path="images/pl082.jpg" filesize="55073" filedate="2005-03-17 21:04:03" width="599px" height="419px">
+</image>
+<image path="images/pl083.jpg" filesize="54913" filedate="2005-03-17 21:04:04" width="396px" height="599px">
+</image>
+<image path="images/pl084.jpg" filesize="62870" filedate="2005-03-17 21:04:05" width="616px" height="416px">
+</image>
+<image path="images/pl085.jpg" filesize="36551" filedate="2005-03-17 21:04:06" width="641px" height="415px">
+</image>
+<image path="images/pl086.jpg" filesize="22819" filedate="2005-03-17 21:04:07" width="503px" height="297px">
+</image>
+<image path="images/pl087.jpg" filesize="72771" filedate="2005-03-17 21:04:07" width="571px" height="411px">
+</image>
+<image path="images/pl088.jpg" filesize="39000" filedate="2005-03-17 21:04:08" width="292px" height="444px">
+</image>
+<image path="images/pl089.jpg" filesize="77994" filedate="2005-03-17 21:04:09" width="423px" height="675px">
+</image>
+<image path="images/pl090.jpg" filesize="69739" filedate="2005-03-17 21:04:10" width="633px" height="411px">
+</image>
+<image path="images/pl091.jpg" filesize="67849" filedate="2005-03-17 21:04:11" width="585px" height="414px">
+</image>
+<image path="images/pl092.jpg" filesize="35140" filedate="2005-03-17 21:04:11" width="409px" height="325px">
+</image>
+<image path="images/pl093.jpg" filesize="30317" filedate="2005-03-17 21:04:12" width="565px" height="305px">
+</image>
+<image path="images/pl094.jpg" filesize="39006" filedate="2005-03-17 21:04:13" width="589px" height="338px">
+</image>
+<image path="images/pl095.jpg" filesize="69364" filedate="2005-03-17 21:04:14" width="708px" height="402px">
+</image>
+<image path="images/pl096.jpg" filesize="53758" filedate="2005-03-17 21:04:15" width="635px" height="412px">
+</image>
+<image path="images/pl097.jpg" filesize="41142" filedate="2005-03-17 21:04:15" width="555px" height="373px">
+</image>
+<image path="images/pl098.jpg" filesize="45516" filedate="2005-03-17 21:04:16" width="357px" height="658px">
+</image>
+<image path="images/pl099.jpg" filesize="45551" filedate="2005-03-17 21:04:17" width="390px" height="598px">
+</image>
+<image path="images/pl100.jpg" filesize="23582" filedate="2005-03-17 21:04:18" width="370px" height="462px">
+</image>
+<image path="images/pl101.jpg" filesize="37070" filedate="2005-03-17 21:04:20" width="361px" height="534px">
+</image>
+<image path="images/pl102.jpg" filesize="29298" filedate="2005-03-17 21:04:21" width="296px" height="600px">
+</image>
+<image path="images/pl103.jpg" filesize="30572" filedate="2005-03-17 21:04:22" width="414px" height="443px">
+</image>
+<image path="images/pl104.jpg" filesize="41890" filedate="2005-03-17 21:04:23" width="414px" height="671px">
+</image>
+<image path="images/pl105.jpg" filesize="18713" filedate="2005-03-17 21:04:23" width="305px" height="381px">
+</image>
+<image path="images/pl106.jpg" filesize="36680" filedate="2005-03-17 21:04:25" width="608px" height="364px">
+</image>
+<image path="images/pl107.jpg" filesize="27859" filedate="2005-03-17 21:04:25" width="371px" height="454px">
+</image>
+<image path="images/pl108.jpg" filesize="30223" filedate="2005-03-17 21:04:26" width="635px" height="270px">
+</image>
+<image path="images/pl109.jpg" filesize="38009" filedate="2005-03-17 21:04:27" width="384px" height="378px">
+</image>
+<image path="images/pl110.jpg" filesize="46211" filedate="2005-03-17 21:04:28" width="671px" height="385px">
+</image>
+<image path="images/pl111.jpg" filesize="75383" filedate="2005-03-17 21:04:29" width="647px" height="411px">
+</image>
+<image path="images/pl112.jpg" filesize="72402" filedate="2005-03-17 21:04:30" width="631px" height="413px">
+</image>
+<image path="images/pl113.jpg" filesize="28006" filedate="2005-03-17 21:04:30" width="309px" height="388px">
+</image>
+<image path="images/pl114.jpg" filesize="32370" filedate="2005-03-17 21:04:31" width="612px" height="369px">
+</image>
+<image path="images/pl115.jpg" filesize="70616" filedate="2005-03-17 21:04:33" width="573px" height="390px">
+</image>
+<image path="images/pl116.jpg" filesize="82048" filedate="2005-03-17 21:04:34" width="413px" height="672px">
+</image>
+<image path="images/pl117.jpg" filesize="72706" filedate="2005-03-17 21:04:34" width="621px" height="408px">
+</image>
+<image path="images/pl118.jpg" filesize="83587" filedate="2005-03-17 21:04:35" width="620px" height="412px">
+</image>
+<image path="images/pl119.jpg" filesize="46643" filedate="2005-03-17 21:04:36" width="411px" height="517px">
+</image>
+<image path="images/pl120.jpg" filesize="38987" filedate="2005-03-17 21:04:37" width="375px" height="542px">
+</image>
+<image path="images/pl121.jpg" filesize="46585" filedate="2005-03-17 21:04:38" width="397px" height="433px">
+</image>
+<image path="images/pl122.jpg" filesize="50819" filedate="2005-03-17 21:04:39" width="545px" height="411px">
+</image>
+<image path="images/pl123.jpg" filesize="68865" filedate="2005-03-17 21:04:41" width="414px" height="664px">
+</image>
+<image path="images/pl124.jpg" filesize="50843" filedate="2005-03-17 21:04:42" width="618px" height="352px">
+</image>
+<image path="images/pl125.jpg" filesize="50888" filedate="2005-03-17 21:04:43" width="394px" height="566px">
+</image>
+<image path="images/pl126.jpg" filesize="46381" filedate="2005-03-17 21:04:44" width="415px" height="627px">
+</image>
+<image path="images/pl127.jpg" filesize="50443" filedate="2005-03-17 21:04:44" width="415px" height="431px">
+</image>
+<image path="images/pl128.jpg" filesize="32362" filedate="2005-03-17 21:04:45" width="237px" height="510px">
+</image>
+<image path="images/pl129.jpg" filesize="23633" filedate="2005-03-17 21:04:46" width="226px" height="630px">
+</image>
+<image path="images/pl130.jpg" filesize="26737" filedate="2005-03-17 21:04:47" width="459px" height="415px">
+</image>
+<image path="images/pl131.jpg" filesize="67965" filedate="2005-03-17 21:04:47" width="613px" height="376px">
+</image>
+<image path="images/pl132.jpg" filesize="65089" filedate="2005-03-17 21:04:48" width="536px" height="397px">
+</image>
+<image path="images/pl133.jpg" filesize="71179" filedate="2005-03-17 21:04:49" width="634px" height="401px">
+</image>
+<image path="images/pl134.jpg" filesize="26730" filedate="2005-03-17 21:04:50" width="378px" height="396px">
+</image>
+<image path="images/pl135.jpg" filesize="62473" filedate="2005-03-17 21:04:51" width="623px" height="404px">
+</image>
+<image path="images/pl136.jpg" filesize="83464" filedate="2005-03-17 21:04:52" width="615px" height="413px">
+</image>
+<image path="images/pl137.jpg" filesize="49760" filedate="2005-03-17 21:04:53" width="598px" height="409px">
+</image>
+<image path="images/pl138.jpg" filesize="32387" filedate="2005-03-17 21:04:53" width="283px" height="579px">
+</image>
+<image path="images/pl139.jpg" filesize="37744" filedate="2005-03-17 21:04:54" width="629px" height="327px">
+</image>
+<image path="images/pl140.jpg" filesize="35235" filedate="2005-03-17 21:04:55" width="281px" height="531px">
+</image>
+<image path="images/pl141.jpg" filesize="26065" filedate="2005-03-17 21:04:55" width="240px" height="585px">
+</image>
+<image path="images/pl142.jpg" filesize="31589" filedate="2005-03-17 21:04:56" width="331px" height="456px">
+</image>
+<image path="images/pl143.jpg" filesize="34402" filedate="2005-03-17 21:04:57" width="400px" height="591px">
+</image>
+<image path="images/pl144.jpg" filesize="45433" filedate="2005-03-17 21:04:57" width="599px" height="396px">
+</image>
+<image path="images/pl145.jpg" filesize="43601" filedate="2005-03-17 21:04:58" width="404px" height="595px">
+</image>
+<image path="images/pl146.jpg" filesize="41017" filedate="2005-03-17 21:04:59" width="413px" height="566px">
+</image>
+<image path="images/pl147.jpg" filesize="26075" filedate="2005-03-17 21:05:00" width="310px" height="466px">
+</image>
+<image path="images/pl148.jpg" filesize="40851" filedate="2005-03-17 21:05:00" width="414px" height="599px">
+</image>
+<image path="images/pl149.jpg" filesize="34070" filedate="2005-03-17 21:05:01" width="408px" height="477px">
+</image>
+<image path="images/pl150.jpg" filesize="53409" filedate="2005-03-17 21:05:02" width="374px" height="536px">
+</image>
+<image path="images/pl151.jpg" filesize="62089" filedate="2005-03-17 21:05:04" width="608px" height="381px">
+</image>
+<image path="images/pl152.jpg" filesize="68621" filedate="2005-03-17 21:05:05" width="609px" height="376px">
+</image>
+<image path="images/pl153.jpg" filesize="67753" filedate="2005-03-17 21:05:06" width="604px" height="413px">
+</image>
+<image path="images/pl154.jpg" filesize="62651" filedate="2005-03-17 21:05:07" width="616px" height="413px">
+</image>
+</images>
